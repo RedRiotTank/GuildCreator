@@ -1,0 +1,5 @@
+GuildOptions:
+  PVP-InGuild: true
+  Scoreboard: false
+other-options:
+  option1: true

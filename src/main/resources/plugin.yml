@@ -1,0 +1,10 @@
+name: GuildCreator
+version: '${project.version}'
+main: htt.guildcreator.GuildCreator
+commands:
+  GuildCreator:
+    description: Main command
+api-version: 1.19
+authors: [ RedRiotTank ]
+description: A guild creator plugin for minecraft server
+website: https://github.com/RedRiotTank/GuildCreator

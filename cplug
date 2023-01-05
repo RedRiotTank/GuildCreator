@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mv /home/alberto-ubuntu/Minecraft-Plugins/GuildCreator/target/GuildCreator-1.0-SNAPSHOT.jar /home/alberto-ubuntu/Minecraft-Plugins/Server/plugins/
